@@ -1,7 +1,7 @@
 # reproducible_geobia
 
 
-Scripts and models that were developed for the example change detection workflow described in the article “Reproducibility and Practical Adoption of GEOBIA with Open-Source Software in Docker Containers.” Remote Sensing 9(3):
+Scripts and models that were developed for the example change detection workflow described in the article “Reproducibility and Practical Adoption of GEOBIA with Open-Source Software in Docker Containers.” Remote Sensing 9(3), [10.3390/rs9030290](https://www.mdpi.com/2072-4292/9/3/290) :
 
 
 Script computing local references and differences of object values to those references (Python script):
